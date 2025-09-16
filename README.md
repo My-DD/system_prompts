@@ -1,6 +1,6 @@
 # MyDD System Prompts
 
-This directory contains age-appropriate system prompts for "Guide," the MyDD chatbot designed to safely interact with children and young adults.
+This directory contains age-appropriate system prompts for the MyDD chatbot, designed to safely interact with children and young adults.
 
 ## Files Overview
 
